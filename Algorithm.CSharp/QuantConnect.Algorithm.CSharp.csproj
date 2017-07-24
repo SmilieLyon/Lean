@@ -75,6 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddRemoveSecurityRegressionAlgorithm.cs" />
+    <Compile Include="FirstTestBtcTemplateAlgorithm.cs" />
     <Compile Include="BasicTemplateDailyAlgorithm.cs" />
     <Compile Include="BasicTemplateFuturesAlgorithmDaily.cs" />
     <Compile Include="FuturesMomentumAlgorithm.cs" />
